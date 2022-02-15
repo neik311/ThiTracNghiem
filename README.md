@@ -11,3 +11,7 @@
 - Bạn đăng nhập tài khoản, nếu chưa có tài khoản thì tiến hành đăng ký tài khoản trước.
 - Nhấn bắt đầu để thi
 ## Một số hình ảnh
+![img_demo1](demo1.png)
+![img_demo2](demo2.png)
+![img_demo3](demo3.png)
+![img_demo4](demo4.png)
