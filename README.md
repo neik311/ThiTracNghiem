@@ -5,13 +5,14 @@
 - Lê Hoàng Anh - N19DCCN005.
 - Nguyễn Văn Kiên - N19DCCN077.
 ## Hướng dẫn cài đặt
+- Dowload source code về và giải nén 2 lần.
 - Bạn cần sử dụng phiên bản jdk 14 trở lên.
-- Mở netbeans và nhấn Run project để chạy chương trình.
+- Mở netbeans và nhấn Run Project để chạy chương trình.
 ## Hướng dẫn thi
 - Bạn đăng nhập tài khoản, nếu chưa có tài khoản thì tiến hành đăng ký tài khoản trước.
 - Nhấn bắt đầu để thi
 ## Một số hình ảnh
-![img_demo1](demo1.png)
-![img_demo2](demo2.png)
-![img_demo3](demo3.png)
-![img_demo4](demo4.png)
+![img_demo1](demo01.png)
+![img_demo2](demo02.png)
+![img_demo3](demo03.png)
+![img_demo4](demo04.png)
