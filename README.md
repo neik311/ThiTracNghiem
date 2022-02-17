@@ -7,7 +7,7 @@
 ## Hướng dẫn cài đặt
 - Dowload source code về và giải nén 2 lần.
 - Bạn cần sử dụng phiên bản jdk 14 trở lên.
-- Nhấn Run Project để chạy chương trình.
+- Nhấn Run Project để chạy chương trình hoặc chạy file userLogin.java .
 - Nếu bị lỗi font trong eclipse : Windows -> Preferences -> General -> Workspace -> Text file encoding -> Other -> UTF8.
 ## Hướng dẫn thi
 - Bạn đăng nhập tài khoản, nếu chưa có tài khoản thì tiến hành đăng ký tài khoản trước.
