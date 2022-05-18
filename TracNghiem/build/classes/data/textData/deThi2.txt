@@ -1,0 +1,217 @@
+101
+Biển nào báo hiệu “Đường giao nhau” của các tuyến đường cùng cấp?
+Biển 1.
+Biển 2.
+Biển 3.
+Biển 2 và 3.
+1
+102
+Biển nào báo hiệu “Giao nhau với đường không ưu tiên”?
+Biển 1.
+Biển 2.
+Biển 3.
+Biển 2 và 3.
+1
+104
+Biển nào báo hiệu, chỉ dẫn xe đi trên đường này được quyền ưu tiên qua nơi giao nhau?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+Cả ba biển.
+2
+105
+Biển nào báo hiệu sắp đến chỗ giao nhau nguy hiểm?
+Biển 1.
+Biển 1 và 2.
+Biển 2 và 3.
+Cả ba biển.
+4
+106
+Biển nào báo hiệu “Giao nhau có tín hiệu đèn”?
+Biển 1.
+Biển 2.
+Biển 3.
+Cả ba biển.
+3
+107
+Biển nào báo hiệu “Giao nhau với đường sắt có rào chắn”?
+Biển 1.
+Biển 2 và 3.
+Biển 3.
+Không có biển nào.
+1
+108
+Biển nào báo hiệu nguy hiểm giao nhau với đường sắt?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+Cả ba biển.
+2
+110
+Biển nào báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt?
+Biển 1.
+Biển 2.
+Biển 3.
+Biển 1 và 3.
+1
+111
+Biển nào báo hiệu “Đường bị thu hẹp”?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+Cả ba biển.
+1
+112
+Khi gặp biển nào,người lái xe phải giảm tốc độ,chú ý xe đi ngược chiều,xe đi ở phía đường bị hẹp phải nhường đường cho xe đi ngược chiều?
+Biển 1.
+Biển 1 và 3.
+Biển 2 và 3.
+Cả ba biển.
+3
+113
+Biển nào báo hiệu “Đường đôi”?
+Biển 1.
+Biển 2.
+Biển 3.
+Biển 1 và 3.
+2
+115
+Biển nào báo hiệu “Giao nhau với đường hai chiều”?
+Biển 1.
+Biển 2.
+Biển 3.
+Không có biển nào.
+1
+116
+Biển nào báo hiệu “Đường hai chiều”?
+Biển 1.
+Biển 2.
+Biển 3.
+Không có biển nào.
+2
+117
+Biển nào báo hiệu “Giao nhau với đường hai chiều”?
+Biển 1.
+Biển 2.
+Biển 3.
+Không có biển nào.
+2
+118
+Biển nào báo hiệu “Chú ý chướng ngại vật”?
+Biển 1
+Biển 2 và 3
+Cả ba biển.
+Không có biển nào.
+2
+120
+Biển nào chỉ dẫn nới bắt đầu đoạn đường dành cho người đi bộ?
+Biển 1
+Biển 2
+Biển 3.
+Không có biển nào.
+2
+122
+Biển nào dưới đây xe gắn máy được phép đi vào?
+Biển 1.
+Biển 2.
+Cả hai biển.
+Không có biển nào.
+3
+123
+Biển nào báo hiệu cấm xe mô tô hai bánh đi vào?
+Biển 1.
+Biển 2.
+Biển 3.
+Không có biển nào.
+1
+124
+khi gặp biển nào thì xe mô tô hai bánh được đi vào?
+Không biển nào.
+Biển 1 và 2.
+Biển 2 và 3.
+Cả 3 biển.
+3
+125
+Biển nào cấm quay đầu xe?
+Biển 1.
+Biển 2.
+Không biển nào.
+Cả hai biển.
+2
+129
+Biển nào cấm các phương tiện giao thông đường bộ rẽ trái?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+Cả ba biển.
+1
+130
+Biển nào xe được phép quay đầu nhưng không được rẽ trái?
+Biển 1.
+Biển 2.
+Cả 2 biển.
+Không có biển nào.
+1
+131
+Biển nào là biển”Cấm đi ngược chiều”?
+Biển 1.
+Biển 2.
+Biển 3.
+Cả ba biển.
+2
+132
+Biển nào dưới đây các phương tiện không được phép đi vào?
+Biển 1.
+Biển 2.
+Biển 1 và 2.
+Không có biển nào.
+3
+133
+Khi gặp biển nào xe ưu tiên theo luật định vẫn phải dừng lại?
+Biển 1.
+Biển 2.
+Biển 3.
+Cả ba biển.
+2
+135
+Gặp biển nào xe xích lô được phép đi vào?
+Biển 1.
+Biển 2.
+Biển 3.
+Biển 1 và 2.
+4
+136
+Gặp biển nào xe lam, xe xích lô máy được phép đi vào?
+Biển 1.
+Biển 2.
+Biển 3.
+Không có biển nào.
+3
+139
+Biển nào xe mô tô hai bánh không được đi vào?
+Biển 1.
+Biển 2.
+Biển 3.
+Cả 3 biển.
+2
+140
+Biển nào xe mô tô hai bánh được đi vào?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+Không có biển nào.
+2
+143
+Biển nào báo hiệu “Đường dành cho xe thô sơ”?
+Biển 1.
+Biển 2.
+Biển 3.
+Không có biển nào.
+1
+145
+Trong các biển dưới đây biển nào là biển “Hết tốc độ tối đa cho phép”?
+Biển 1.
+Biển 2.
+Biển 3.
+Cả ba biển.
+1
