@@ -8,7 +8,4 @@
 - Bạn cần sử dụng phiên bản jdk 14 trở lên.
 - Nhấn Run Project để chạy chương trình hoặc chạy file userLogin.java .
 - Nếu bị lỗi font trong eclipse : Windows -> Preferences -> General -> Workspace -> Text file encoding -> Other -> UTF8.
-## Một số hình ảnh
-![img_demo1](demo01.png)
-![img_demo2](demo02.png)
-![img_demo3](demo03.png)
+
