@@ -1,4 +1,4 @@
-## Project thi thử trắc nghiệm bằng lái xe
+## Project thi thử trắc nghiệm đơn giản
 - Sử dụng ngôn ngữ java (jdk14).
 ## Sinh viên thực hiện
 - Lê Hoàng Anh - N19DCCN005.
